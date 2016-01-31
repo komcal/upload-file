@@ -1,2 +1,1 @@
-run: node server
-localhost:3000/upload
+run: node server and localhost:3000/upload
