@@ -1,2 +1,2 @@
-# upload-file
-run node server
+run: node server
+localhost:3000/upload
